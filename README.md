@@ -14,4 +14,5 @@ Each skill is packaged as a ZIP file containing a SKILL.md with:
 
 ## Available Skills
 
+- [consultancy-frameworks-implemented](consultancy-frameworks-implemented.zip) - Framework & Founder Wisdom Protocol for strategic intelligence on demand.
 Skills will appear here automatically when published.
